@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about learning web design and front
 
 ## 👨‍💻 My Work
 
-I’m the founder and leader of [VZ-GbR.de](https://www.vz-gbr.de/), the home of **G-Network** and **Crystal-Network**, where we work on creating innovative and high-performance networks.
+I’m the founder and leader of [VZ-GbR.de](https://vz-gbr.de/), the home of **G-Network** and **Crystal-Network**, where we work on creating innovative and high-performance networks.
 
 ## 🌱 Currently Learning
 
