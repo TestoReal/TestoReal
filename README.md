@@ -23,7 +23,7 @@ Whether it's for hosting, web applications, or a custom client panel – we deli
 
 ## 👨‍💻 My Work
 
-I’m the founder and leader of [Crystal Network](http://crystal-network.de/), the home of **G-Network**, where we focus on creating innovative and high-performance networks.
+I’m the founder and leader of [Crystal Network](http://crystal-network.de/), the home of **Crystal Solution**, where we focus on creating innovative and high-performance networks.
 
 ## 🌱 Currently Learning
 
